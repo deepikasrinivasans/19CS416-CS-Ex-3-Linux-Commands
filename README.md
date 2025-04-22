@@ -1,4 +1,4 @@
-# 19CS416-CS-Ex-3-Linux-Commands
+# 19AI541 Ex-3 Linux-Commands
 
 ## Introduction to Linux
 
